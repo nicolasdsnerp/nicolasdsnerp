@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nicolas Theodoro Lopes | fullstack web developer.
+- 👋 Hi, I’m Nicolas Theodoro Lopes, fullstack web developer.
 - 🚧 Web developer at Web developer in the business management product line (ERP).
 - 🌱 I’m currently learning about web development.
 - 📫 How to reach me nicolas.dsn.erp@alterdata.com.
